@@ -15,7 +15,7 @@ window.requestAnimationFrame(function () {
         "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-shake-space-212.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-sunglasses-212.gif",        
         "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-shake-212.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-wink-212.gif",
+        "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/1017029_10201999897467799_199083094_n.jpg",
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-derp-114.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-fat-114.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-gradient-114.gif",
@@ -26,7 +26,7 @@ window.requestAnimationFrame(function () {
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-shake-space-114.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-sunglasses-114.gif",        
         "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-shake-114.gif",
-        "http://d1e3ezyatlol8u.cloudfront.net/img/114/doge-wink-114.gif",
+        "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/1017029_10201999897467799_199083094_n.jpg",
     ];
     for(var i = 0; i < imageList.length; i++ ) 
     {
