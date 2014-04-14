@@ -26,16 +26,6 @@ h1.title {
   display: block;
   float: left; }
   
-  #twitter-widget-0 {
-    width: 100px !important;    
-    position: relative;
-  }
-  
-  .COINWIDGETCOM_CONTAINER {
-  position: relative;
-  bottom: 5px;
-  }
-  
   .footer > div{
     display:inline-block !important;
     width: auto !important;
@@ -962,13 +952,6 @@ hr {
     .footer{
       width:188px;}
 
-    #twitter-widget-0 {
-      position: relative;
-      top:5px;
-    }
-    
-    .COINWIDGETCOM_CONTAINER {
-      display:none !important;
     }
 
     .game-container .info p {
