@@ -10,7 +10,7 @@ function HTMLActuator() {
   this.score = 0;
 }
 
-var dogeSayings = ['birthday girl', '20', 'woot', 'haaay', 'mmmmhmm', 'go katrina', 'you are awesome', 'so good', 'go you', 'happy birthday',]
+var dogeSayings = ['birthday girl', '20', 'woot katrina', 'haaay gurl', 'mmmmhmm', 'go katrina', 'you are awesome', 'hbd!!!!', 'go kat', 'happy birthday love', 'you are the best', 'katrina <3', 'kat kat city',]
 
 var ads = [
 ,
